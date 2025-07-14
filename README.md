@@ -6,7 +6,7 @@ Aimed at being extensible for future node types and features.
 
 ## 🖥️ Demo
 
-Live Preview: *\[[Add your deployment URL here](https://chatbot-flow-builder-bitespeed.netlify.app/)]*
+Live Preview: *\[(https://chatbot-flow-builder-bitespeed.netlify.app/)]*
 (*Hosted on Netlify*)
 
 ---
